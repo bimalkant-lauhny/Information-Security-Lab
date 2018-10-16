@@ -1,5 +1,6 @@
 # Information-Security-Lab
 
 
-Programs Done in Information Security Lab 2017
-Instructor- [Dr. Lokesh Chouhan](http://www.lokeshchouhan.com)
+This repo contains the programs made in _Information Security Lab_ in VII Semester. All programs are implemented in Python.
+
+_Instructor_- [Dr. Lokesh Chouhan](http://www.lokeshchouhan.com)
